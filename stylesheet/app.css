@@ -1,0 +1,17 @@
+body {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important; 
+}
+
+.title {
+  background-color: #1a1a1a;
+  color:#fff;
+}
+
+.content {
+  background-color: #e0e0e0;
+}
+
+.white {
+  color: #ffffff !important;
+  text-decoration: none;
+}
